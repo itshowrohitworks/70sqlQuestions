@@ -1,0 +1,29 @@
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python / Env (if you add later, safe to ignore)
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.env
+
+# Jupyter checkpoints (if you add notebooks)
+.ipynb_checkpoints/
+
+# PostgreSQL Backup Files (DO NOT upload)
+*.tar
+*.backup
+*.dump
+
+# Large raw data (optional)
+raw_data/
+
+# Logs
+*.log
