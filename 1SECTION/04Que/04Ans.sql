@@ -1,3 +1,3 @@
-SELECT title 
+SELECT * 
 FROM film
 LIMIT 10;
