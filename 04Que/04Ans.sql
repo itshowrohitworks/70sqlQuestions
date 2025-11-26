@@ -1,3 +1,0 @@
-SELECT title 
-FROM film
-LIMIT 10;
