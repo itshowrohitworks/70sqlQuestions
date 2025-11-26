@@ -1,3 +1,4 @@
+# If you want to create onyl questions directory:
 import os
 
 for i in range(1,71):
