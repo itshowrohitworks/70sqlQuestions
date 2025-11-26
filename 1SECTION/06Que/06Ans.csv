@@ -1,0 +1,2 @@
+"customer_id","store_id","first_name","last_name","email","address_id","activebool","create_date","last_update","active"
+1,1,"Mary","Smith","mary.smith@sakilacustomer.org",5,1,"2006-02-14","2013-05-26 14:49:45.738",1
